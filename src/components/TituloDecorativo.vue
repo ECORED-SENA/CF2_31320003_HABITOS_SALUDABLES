@@ -25,14 +25,14 @@ export default {
 .cont_principal:before
   content: ''
   position: absolute
-  width: 86%
+  width: 95%
   height : 80%
   background-color: #30169a
   bottom: 10%
   top: 10%
-  border-radius: 10% / 30px
+  border-radius: 10% / 45px
   left: 49px
 .cont_principal .titulo
   z-index: 2
-  padding-right: 30px
+  padding-right: 5px
 </style>

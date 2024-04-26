@@ -14,10 +14,10 @@
       .col-lg-9(data-aos="fade-left")
         .row
           .col-lg-7.mb-4.mb-lg-0.pe-lg-0
-            .h-100.p-4(style="background-color:#EBEBFD;")
+            .h-100.p-4.d-flex.flex-wrap.align-content-center(style="background-color:#EBEBFD;")
               p.mb-0 Las enfermedades ocasionadas por mala alimentación, son en la actualidad un problema de considerable importancia. Los hábitos alimenticios de las personas tienen una gran influencia en su salud, de hecho, el consumo excesivo de ciertos productos, así como la eliminación completa de algunos de estos, termina por ocasionar diversos padecimientos. 
           .col-lg-5.ps-lg-0
-            figure.col-9.col-md-8.col-lg-12
+            figure.col-9.col-md-8.col-lg-12.m-auto
               img(src="@/assets/curso/tema2/2.svg")
         p.mt-4.mb-0(data-aos="fade-up") Como se ha explicado, el cuerpo humano necesita de muchos nutrientes para funcionar correctamente, por ejemplo, del consumo de carbohidratos, proteínas, vitaminas, minerales, entre otros. Cuando no se le aporta al cuerpo la cantidad suficiente de algunas de las sustancias mencionadas anteriormente, este tiende a sufrir desbalances nutricionales, haciendo que algunas de sus funciones básicas no se realicen adecuadamente, generándose enfermedades; igualmente cuando se ingieren cantidades excesivas de alimentos, es posible que surjan complicaciones debido a la superabundancia de nutrientes, así como componentes dañinos para el organismo. 
     
@@ -36,12 +36,12 @@
           img(src="@/assets/curso/tema2/3.svg")
     
     .row.mt-4
-      .col-lg-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-4.mb-lg-0.mb-4(data-aos="fade-right")
         figure.m-auto.col-7.col-md-7.col-lg-12
           img(src="@/assets/curso/tema2/4.png")
       .col-lg-8(data-aos="fade-left")
         p Los factores que influyen en el desarrollo del cáncer, son: 
-        .p-4(style="background-color:#787CF0;border-radius:15px;")
+        .p-4(style="background-color:#5357DE;border-radius:15px;")
           .bg-white.cont_2_1.mb-3.p-3(style="border-radius:15px;box-shadow:0px 0px 10px rgba(0,0,0,.25);")
             .row
               .col-auto(style="place-self:center;")
@@ -198,6 +198,177 @@
     p(data-aos="fade-right") Es un estado de hiperglucemia crónica, es el resultado de una serie de factores genéticos y ambientales que con frecuencia actúan simultáneamente. La hiperglucemia se ocasiona debido a un déficit (absoluto o relativo) de insulina endógena, o por un exceso de agentes que se oponen a su acción; este desequilibrio lleva a una anormalidad en el metabolismo de carbohidratos, grasas y proteínas. 
     p(data-aos="fade-left") Existen dos tipos de diabetes: 
 
+    .row.mt-4
+      .col-lg-6.mb-4.mb-lg-0.pe-lg-0(data-aos="fade-right")
+        .h-100.p-4.p-lg-5(style="background-color:#C3C4F4;border-radius:15px 0px 0px 15px;")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/26.svg" data-aos="zoom-in-up" data-aos-delay="500")
+            .col(style="place-self:end;")
+              h5.text-white.ps-3.pe-3.pt-1.pb-1(style="background-color:#30169A;max-width:fit-content;") Diabetes tipo I
+          p.mt-4 También llamada diabetes juvenil, se caracteriza por hacer que la persona sea insulinodependiente; para esta suele utilizarse la sigla DMID (diabetes mellitus insulinodependiente). 
+      .col-lg-6.mb-4.mb-lg-0.ps-lg-0(data-aos="fade-left")
+        .h-100.p-4.p-lg-5(style="background-color:#5357DE;border-radius:0px 15px 15px 0px;")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/27.svg" data-aos="zoom-in-up" data-aos-delay="500")
+            .col(style="place-self:end;")
+              h5.text-white.ps-3.pe-3.pt-1.pb-1(style="background-color:#30169A;max-width:fit-content;") Diabetes tipo II
+          p.mt-4.text-white O del adulto, en un principio no es insulinodependiente; sus siglas son DMNID (diabetes mellitus no insulinodependiente). 
+    
+    .row.mt-5
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
+        figure.m-auto.col-8.col-md-7.col-lg-12
+          img(src="@/assets/curso/tema2/28.png")
+      .col-lg-8(data-aos="fade-left")
+        p Además de los tipos mencionados anteriormente, existen otras modalidades de diabetes, entre las que se hallan: 
+        ul.lista-ul.mt-3.mb-0.ps-4
+          li.d-flex
+            i.fas.fa-walking(style="color:#30169A;")
+            div Diabetes secundarias asociadas a fármacos. 
+          li.d-flex
+            i.fas.fa-walking(style="color:#30169A;")
+            div Por tolerancia alterada a los glúcidos 
+          li.d-flex
+            i.fas.fa-walking(style="color:#30169A;")
+            div Gestacional 
+          li.d-flex.mb-0
+            i.fas.fa-walking(style="color:#30169A;")
+            div Las ocasionadas por mala nutrición.
+        p.mt-4.mb-0 Una persona que sufre de diabetes tiene complicaciones constantemente, padece de insuficiencia renal, de lesiones oculares, o de los nervios periféricos; asimismo, presenta una mayor incidencia de enfermedades coronarias, de arteriopatías en las extremidades de los miembros inferiores, o igualmente, puede comparecer de una trombosis cerebral. 
+    
+    p.mt-4(data-aos="fade-right") Las siguientes, son las recomendaciones para la dieta de un diabético: 
+
+    .tarjeta.tarjeta--gris.p-4.mt-4.cont_slyder3
+      PasosB.color-acento-botones
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p Aumentar el consumo de alimentos ricos en fibra como manzanas, peras, coliflor, banano, brócoli, albaricoques, fresas, naranjas, zanahorias, patatas, espinacas, guisantes, garbanzos, judías, lentejas, cereales y derivados del grano entero como la pasta y el pan. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/30.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p El equilibrio de la dieta para la diabetes radica en el control y en el seguimiento de lo que se ingiere. Hoy en día, lo recomendable es no alejarse mucho de la dieta balanceada de una persona no diabética, pero sí es necesario que se mantengan ciertos niveles de nutrientes en la alimentación. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/31.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p Los glúcidos deben corresponder al 55 % de la dieta, dentro de estos, un 15 % debe estar constituido por hidratos de carbono simples, un 30 % por grasas (repartiendo equitativamente la cantidad de grasas saturadas, monoinsaturadas y poliinsaturadas) y un 10 % por proteína. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/32.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p Es recomendable que la dieta tenga un buen contenido de fibra, debe presentar una restricción moderada al consumo de colesterol y de ácidos grasos saturados, de igual manera es necesario prohibir el consumo de alcohol. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/33.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p El aporte de calorías y proteínas de la dieta varía según el estado fisiológico de la persona, de su contextura, edad y sexo, si se encuentra en estado de embarazo, de la actividad física que realiza, entre otras; por eso se recomienda que un especialista oriente la dieta, de acuerdo a cada caso particular. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/34.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p El horario en el cual se ingieren los nutrientes, de este dependerá la normalización de los ciclos metabólicos. La distribución de los alimentos entre las distintas comidas del día y los refrigerios debe concordar con las preferencias dictaminadas por la dieta, la actividad física que realiza el individuo y con el requerimiento de insulina. Lo recomendable es comer seis veces al día, pero para los tratados con insulina es obligatorio; no se debe pasar mucho tiempo en ayuno debido a que esto puede ocasionar hipoglucemia. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/35.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p Los carbohidratos son esenciales en la dieta del diabético, principalmente los hidratos de carbono simples, los cuales se enmarcan dentro de la glucosa, la fructosa y la galactosa. Son de rápida absorción por lo cual es posible que provoquen incrementos hiperglucémicos si se ingieren descontroladamente. Se recomienda por ende limitar su consumo a únicamente un 15 % de la dieta, y en la medida de lo posible ingerirlos en forma de fruta; por otra parte, los hidratos de carbono complejos como los polisacáridos y los almidones son de lenta absorción, pudiéndose consumir en una mayor cantidad, pero más sin embargo no debe descuidarse su control.
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/36.svg')
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+          .col-lg.mb-4.mb-lg-0(style="place-self:center;")
+            p El consumo de fibra es muy recomendado, porque ayuda a disminuir la absorción de glúcidos, incluso si se lleva una dieta rica en fibra se pueden reducir los requerimientos de insulina. 
+          .col-lg-auto(style="place-self:center;")
+            figure
+              img(src='@/assets/curso/tema2/37.svg')
+
+    p.mt-4(data-aos="fade-right") Existen muchos alimentos ricos en fibra, de hecho en el mercado se pueden encontrar suplementos dietarios que ayuden a alcanzar el nivel diario requerido de este componente, el cual usualmente está alrededor de los 30 gramos. Es aconsejable en la medida de lo posible, obtener la fibra únicamente mediante el consumo de vegetales y legumbres. 
+
+    .row.mt-4
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+        p Como complemento a la dieta, debe efectuarse un adecuado ejercicio físico, porque disminuye los requisitos de insulina y mejora el control metabólico; finalmente, se puede consumir lo que en el mercado se conoce como productos tolerados para diabéticos, en los que se ha sustituido el azúcar por fructosa, los edulcorantes artificiales y otros productos similares. Sin embargo, el anexo de uno de estos productos en la dieta debe ser supervisado por un médico, porque su consumo descontrolado puede modificar los niveles de glucemia e inclusive producir diarrea. 
+      .col-lg-6(data-aos="fade-left")
+        figure.m-auto.col-10.col-md-8.col-lg-12
+          img(src="@/assets/curso/tema2/38.png")
+    
+    Separador
+
+    .titulo-segundo(data-aos="flip-up")
+      h2#t_2_4 2.4  Enfermedades cardiovasculares 
+    
+    .row
+      .col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right" data-aos-delay="500" data-aos-easing="ease-out-cubic")
+        figure.m-auto.col-6.col-md-6.col-lg-12
+          img(src="@/assets/curso/tema2/39.svg")
+      .col-lg-9(data-aos="fade-left")
+        .row
+          .col-lg-7.mb-4.mb-lg-0.pe-lg-0
+            .h-100.p-4.d-flex.flex-wrap.align-content-center(style="background-color:#EBEBFD;")
+              p.mb-0 Se originan debido a interrupciones de la corriente sanguínea con el corazón, o de aquella que va desde el corazón hacia las demás partes del cuerpo. Estas afecciones aparecen cuando se tienen altos niveles de grasa en el cuerpo y cuando se manejan malos hábitos de alimentación, ocasionando que en las arterias se acumulen diversas sustancias grasas como el colesterol. 
+          .col-lg-5.ps-lg-0
+            figure.col-9.col-md-8.col-lg-12.m-auto
+              img(src="@/assets/curso/tema2/40.svg")
+        .row.mt-4
+          .col-auto.d-none.d-md-block
+            figure
+              img(src="@/assets/curso/tema2/41.svg")
+          .col(style="place-self:center;")
+            p.mb-0 Una de las principales enfermedades cardiovasculares es la arteriosclerosis, la cual se define como el endurecimiento y oclusión de las arterias; se ocasiona debido a la formación de una placa de depósito graso llamada ateroma. 
+        p.mt-4.mb-0 Los niveles de colesterol en la sangre incrementan las probabilidades de infarto debido a que las obstaculizaciones en las venas hacen que el flujo que alimenta el miocardio (músculo del corazón) se vea disminuido drásticamente o sencillamente se detenga. Aparte de los infartos, también es posible sufrir una enfermedad llamada trombosis en la que se produce un coágulo en la sangre, generando una obstrucción en el flujo sanguíneo. 
+    
+    TituloDecorativo.mt-5(titulo="Estrategias para prevenir enfermedades cardiovasculares")
+
+    p(data-aos="fade-right") La prevención de problemas cardiovasculares debe empezar desde la niñez, por medio de hábitos saludables en la alimentación y mediante una buena actividad física, evitando el consumo de alcohol y tabaco. 
+    p(data-aos="fade-left") En la alimentación, es necesario tener en cuenta: 
+
+    .row.mt-4
+      .col-lg.col-md-12(data-aos="fade-right")
+        .row
+          .col-lg-4.mb-4(data-aos="zoom-in")
+            .text-center.h-100.p-4.text-white.cont_hover_1(style="background-color:#30169A;border-radius:15px;")
+              figure
+                img(src="@/assets/curso/tema2/42.svg" style="max-width:100px;display:inline;")
+              p.mt-4 Consumir carnes blancas como pollo, pescado y pavo.
+          .col-lg-4.mb-4(data-aos="zoom-in")
+            .text-center.h-100.p-4.text-white.cont_hover_1(style="background-color:#30169A;border-radius:15px;")
+              figure
+                img(src="@/assets/curso/tema2/43.svg" style="max-width:100px;display:inline;")
+              p.mt-4 Preferir los derivados lácteos como leche, yogur y quesos bajos en grasa. 
+          .col-lg-4.mb-4(data-aos="zoom-in")
+            .text-center.h-100.p-4.text-white.cont_hover_1(style="background-color:#30169A;border-radius:15px;")
+              figure
+                img(src="@/assets/curso/tema2/44.svg" style="max-width:100px;display:inline;")
+              p.mt-4 Aumentar el consumo de frutas y de verduras como la espinaca, la coliflor, la acelga y el brócoli, ricas en fibra y antioxidantes.
+          .col-lg-4.mb-4(data-aos="zoom-in")
+            .text-center.h-100.p-4.text-white.cont_hover_1(style="background-color:#30169A;border-radius:15px;")
+              figure
+                img(src="@/assets/curso/tema2/45.png" style="max-width:100px;display:inline;")
+              p.mt-4 Comer leguminosas como lentejas y garbanzos, ya que tienen carbohidratos complejos. 
+          .col-lg-4.mb-4(data-aos="zoom-in")
+            .text-center.h-100.p-4.text-white.cont_hover_1(style="background-color:#30169A;border-radius:15px;")
+              figure
+                img(src="@/assets/curso/tema2/46.svg" style="max-width:100px;display:inline;")
+              p.mt-4 Disminuir el consumo de sal y de alimentos procesados en este mineral. 
+          .col-lg-4.mb-4(data-aos="zoom-in")
+            .text-center.h-100.p-4.text-white.cont_hover_1(style="background-color:#30169A;border-radius:15px;")
+              figure
+                img(src="@/assets/curso/tema2/47.svg" style="max-width:100px;display:inline;")
+              p.mt-4 Consumir poca carne de cerdo, cordero, cremas y productos de pastelería, en especial los fabricados con grasas saturadas. 
+      .col-lg-auto.col-md-12(data-aos="fade-left" data-aos-delay="500" data-aos-easing="ease-out-cubic")
+        figure.m-auto.col-6.col-md-6.col-lg-12
+          img(src="@/assets/curso/tema2/48.png")
+
+
 
       
 
@@ -257,4 +428,31 @@ export default {
 .cont_2_3
   background: url(../assets/curso/tema2/20.png)
   background-size: 100% 100%
+.cont_slyder3
+  background: url(../assets/curso/tema2/29.png)
+  background-size: cover
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  border: 2px solid #FCA651
+  background-color: #FCA651
+.pasos-b__header__item__tittle
+  color: #fff
+.pasos-b__header__item__dot
+  background-color: #fff
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border-color: #95DBB3
+  background-color: #95DBB3
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+  background-color: #95DBB3
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+  background-color: #95DBB3
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after
+  background-color: #95DBB3
+.cont_hover_1,.cont_hover_1 *
+  transition: all .3s ease-in-out
+.cont_hover_1:hover
+  background-color: #EBEBFD !important
+  cursor: pointer
+  box-shadow: 0px 4px 35px rgba(0,0,0,.15)
+.cont_hover_1:hover p
+  color: #12263F !important
 </style>
