@@ -26,10 +26,8 @@ export default {
   content: ''
   position: absolute
   width: 95%
-  height : 80%
+  height : 100%
   background-color: #30169a
-  bottom: 10%
-  top: 10%
   border-radius: 10% / 45px
   left: 49px
 .cont_principal .titulo

@@ -83,7 +83,7 @@
       .col-lg-9(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Políticas saludables")
-            p.mb-0 Realizando actividad física, promoviendo espacios libres del humo de tabaco y consumiendo frutas y verduras. 
+            p.mb-0 Generar normas, crear programas y acciones que se institucionalicen en la universidad saludable, además, es necesario que se incluyan capacitaciones formales e informales. 
           .row.col-xl-11.m-auto(titulo="Ambientes y entornos saludables")
             p.mb-0 Crear ambientes físicos y psicosociales que propicien un ambiente saludable, el cual disminuya riesgos. 
           .row.col-xl-11.m-auto(titulo="Coordinación intersectorial")

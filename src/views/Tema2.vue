@@ -207,7 +207,7 @@
                 img(src="@/assets/curso/tema2/26.svg" data-aos="zoom-in-up" data-aos-delay="500")
             .col(style="place-self:end;")
               h5.text-white.ps-3.pe-3.pt-1.pb-1(style="background-color:#30169A;max-width:fit-content;") Diabetes tipo I
-          p.mt-4 También llamada diabetes juvenil, se caracteriza por hacer que la persona sea insulinodependiente; para esta suele utilizarse la sigla DMID (diabetes mellitus insulinodependiente). 
+          p.mt-4 También llamada diabetes juvenil, se caracteriza por hacer que la persona sea insulinodependiente; para esta suele utilizarse la sigla DMID (diabetes #[em mellitus] insulinodependiente). 
       .col-lg-6.mb-4.mb-lg-0.ps-lg-0(data-aos="fade-left")
         .h-100.p-4.p-lg-5(style="background-color:#5357DE;border-radius:0px 15px 15px 0px;")
           .row
@@ -216,7 +216,7 @@
                 img(src="@/assets/curso/tema2/27.svg" data-aos="zoom-in-up" data-aos-delay="500")
             .col(style="place-self:end;")
               h5.text-white.ps-3.pe-3.pt-1.pb-1(style="background-color:#30169A;max-width:fit-content;") Diabetes tipo II
-          p.mt-4.text-white O del adulto, en un principio no es insulinodependiente; sus siglas son DMNID (diabetes mellitus no insulinodependiente). 
+          p.mt-4.text-white O del adulto, en un principio no es insulinodependiente; sus siglas son DMNID (diabetes #[em mellitus] no insulinodependiente). 
     
     .row.mt-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
@@ -230,10 +230,10 @@
             div Diabetes secundarias asociadas a fármacos. 
           li.d-flex
             i.fas.fa-walking(style="color:#30169A;")
-            div Por tolerancia alterada a los glúcidos 
+            div Por tolerancia alterada a los glúcidos.
           li.d-flex
             i.fas.fa-walking(style="color:#30169A;")
-            div Gestacional 
+            div Gestacional.
           li.d-flex.mb-0
             i.fas.fa-walking(style="color:#30169A;")
             div Las ocasionadas por mala nutrición.
@@ -243,49 +243,49 @@
 
     .tarjeta.tarjeta--gris.p-4.mt-4.cont_slyder3
       PasosB.color-acento-botones
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
-            p Aumentar el consumo de alimentos ricos en fibra como manzanas, peras, coliflor, banano, brócoli, albaricoques, fresas, naranjas, zanahorias, patatas, espinacas, guisantes, garbanzos, judías, lentejas, cereales y derivados del grano entero como la pasta y el pan. 
+            p La dieta de un diabético difiere solo en algunos puntos con respecto a la de una dieta balanceada normal, de hecho las desigualdades que se presentan van más con la adaptación de algunas características fisiopatológicas de la diabetes y con el tipo de tratamiento que la persona recibe. 
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/30.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
             p El equilibrio de la dieta para la diabetes radica en el control y en el seguimiento de lo que se ingiere. Hoy en día, lo recomendable es no alejarse mucho de la dieta balanceada de una persona no diabética, pero sí es necesario que se mantengan ciertos niveles de nutrientes en la alimentación. 
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/31.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
-            p Los glúcidos deben corresponder al 55 % de la dieta, dentro de estos, un 15 % debe estar constituido por hidratos de carbono simples, un 30 % por grasas (repartiendo equitativamente la cantidad de grasas saturadas, monoinsaturadas y poliinsaturadas) y un 10 % por proteína. 
+            p Los glúcidos deben corresponder al 55 % de la dieta, dentro de estos, un 15 % debe estar constituido por hidratos de carbono simples, un 30 % por grasas (repartiendo equitativamente la cantidad de grasas saturadas, monoinsaturadas y poliinsaturadas) y un 10 % por proteína.
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/32.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
             p Es recomendable que la dieta tenga un buen contenido de fibra, debe presentar una restricción moderada al consumo de colesterol y de ácidos grasos saturados, de igual manera es necesario prohibir el consumo de alcohol. 
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/33.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
             p El aporte de calorías y proteínas de la dieta varía según el estado fisiológico de la persona, de su contextura, edad y sexo, si se encuentra en estado de embarazo, de la actividad física que realiza, entre otras; por eso se recomienda que un especialista oriente la dieta, de acuerdo a cada caso particular. 
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/34.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
             p El horario en el cual se ingieren los nutrientes, de este dependerá la normalización de los ciclos metabólicos. La distribución de los alimentos entre las distintas comidas del día y los refrigerios debe concordar con las preferencias dictaminadas por la dieta, la actividad física que realiza el individuo y con el requerimiento de insulina. Lo recomendable es comer seis veces al día, pero para los tratados con insulina es obligatorio; no se debe pasar mucho tiempo en ayuno debido a que esto puede ocasionar hipoglucemia. 
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/35.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
-            p Los carbohidratos son esenciales en la dieta del diabético, principalmente los hidratos de carbono simples, los cuales se enmarcan dentro de la glucosa, la fructosa y la galactosa. Son de rápida absorción por lo cual es posible que provoquen incrementos hiperglucémicos si se ingieren descontroladamente. Se recomienda por ende limitar su consumo a únicamente un 15 % de la dieta, y en la medida de lo posible ingerirlos en forma de fruta; por otra parte, los hidratos de carbono complejos como los polisacáridos y los almidones son de lenta absorción, pudiéndose consumir en una mayor cantidad, pero más sin embargo no debe descuidarse su control.
+            p Los carbohidratos son esenciales en la dieta del diabético, principalmente los hidratos de carbono simples, los cuales se enmarcan dentro de la glucosa, la fructosa y la galactosa. Son de rápida absorción por lo cual es posible que provoquen incrementos hiperglucémicos si se ingieren descontroladamente. Se recomienda por ende limitar su consumo a únicamente un 15 % de la dieta, y en la medida de lo posible ingerirlos en forma de fruta; por otra parte, los hidratos de carbono complejos como los polisacáridos y los almidones son de lenta absorción, pudiéndose consumir en una mayor cantidad, pero más sin embargo no debe descuidarse su control. 
           .col-lg-auto(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema2/36.svg')
-        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="Recomendación")
+        .row.col-xl-11.m-auto.text-white.mt-4.mb-4(titulo="")
           .col-lg.mb-4.mb-lg-0(style="place-self:center;")
             p El consumo de fibra es muy recomendado, porque ayuda a disminuir la absorción de glúcidos, incluso si se lleva una dieta rica en fibra se pueden reducir los requerimientos de insulina. 
           .col-lg-auto(style="place-self:center;")
@@ -455,4 +455,6 @@ export default {
   box-shadow: 0px 4px 35px rgba(0,0,0,.15)
 .cont_hover_1:hover p
   color: #12263F !important
+.slyder-a__bullets__item
+  margin: 0 7px !important
 </style>

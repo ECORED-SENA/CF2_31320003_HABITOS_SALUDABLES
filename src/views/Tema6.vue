@@ -64,13 +64,10 @@
               div Descarte si presenta manchas negras o verdes. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Prescinda si la temperatura es superior a 4ºC y si exhibe una textura babosa, pegajosa o seca. 
+              div Acepte si tiene una temperatura de 4ºC o menor y si el color es rojo carmesí brillante. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Realice la prueba del dedo, la cual consiste en hacer presión sobre la carne, y si queda marcado sobre esta, rechácela. 
-            li.d-flex.mb-0
-              i.fas.fa-walking(style="color:#30169A;")
-              div Acepte si tiene una temperatura de 4ºC o menor y si el color es rojo carmesí brillante. 
+              div Prescinda si la temperatura es superior a 4ºC y si exhibe una textura babosa, pegajosa o seca. Realice la prueba del dedo, la cual consiste en hacer presión sobre la carne, y si queda marcado sobre esta, rechácela. 
         .col-lg-4
           figure.m-auto.col-8.col-md-7.col-lg-12
             img(src="@/assets/curso/tema6/4.png")
@@ -158,10 +155,8 @@
             img(src="@/assets/curso/tema6/8.png")
       .row.col-xl-11.m-auto(titulo="Leguminosas y cereales")
         .col-lg-8.mb-4.mb-lg-0
-          ul.lista-ul.mb-0
-            li.d-flex
-              i.fas.fa-walking(style="color:#30169A;")
-              div Frijol, lentejas, arroz y maíz: 
+          p Frijol, lentejas, arroz y maíz: 
+          ul.lista-ul.mb-0.mt-3.ps-4
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
               div Supervisar por medio de los sentidos, que estos alimentos no presentan olor a húmedo o viejo. 

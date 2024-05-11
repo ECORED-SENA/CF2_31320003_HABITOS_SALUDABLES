@@ -12,7 +12,7 @@
     .row.mt-4
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         figure.m-auto.col-7.col-md-6.col-lg-12
-          img(src="@/assets/curso/tema3/1.png")
+          img(src="@/assets/curso/tema4/1.png")
       .col-lg-9(data-aos="fade-left")
         .row
           .col-lg-7.mb-4.mb-lg-0.pe-lg-0
@@ -55,7 +55,7 @@
         figure
           img(src="@/assets/curso/tema4/4.svg")
       .col(style="place-self:center;" data-aos="fade-left")
-        p.mb-0 Teniendo en cuenta lo anterior ,es aconsejable ejecutar actividades físicas continuas y controladas. El ejercicio físico sistemático es la mejor opción para lograr una buena salud, en especial porque se realiza en tiempos adecuados y conformes a las posibilidades y necesidades de cada persona; este método es muy conveniente porque se determina la intensidad y la frecuencia apropiada para el ejercicio. 
+        p.mb-0 Teniendo en cuenta lo anterior, es aconsejable ejecutar actividades físicas continuas y controladas. El ejercicio físico sistemático es la mejor opción para lograr una buena salud, en especial porque se realiza en tiempos adecuados y conformes a las posibilidades y necesidades de cada persona; este método es muy conveniente porque se determina la intensidad y la frecuencia apropiada para el ejercicio. 
     
     Separador
 
@@ -200,7 +200,7 @@
             div Para mejorar el estado de salud de este grupo, se aconseja incrementar la actividad física en 300 minutos por semana con práctica moderada aeróbica, o también se pueden hacer hasta 150 minutos a la semana de actividad física intensa aeróbica; de igual manera puede haber combinación de las dos actividades (moderada y vigorosa). 
           li.d-flex.mb-0
             i.fas.fa-walking(style="color:#30169A;")
-            div En la semana se deben realizar actividades de fortalecimiento para los grupos musculares grandes dos o más veces por semana
+            div En la semana se deben realizar actividades de fortalecimiento para los grupos musculares grandes dos o más veces por semana.
       .row.col-xl-11.m-auto(titulo="De 65 años en adelante")
         p Los adultos de este grupo realizan en su mayoría actividades recreativas como paseos, caminar, montar bicicleta, actividades domésticas, deportes, juegos, o ejercicios programados en contextos familiares o lugares de descanso.
         p Para que este grupo mejore sus funciones musculares, óseas y cardiovasculares, además de reducir el riesgo de padecer enfermedades no transmisibles, deterioro cognitivo y depresión, se sugiere:  
@@ -242,7 +242,7 @@
       .row
         .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
           .titulo-sexto.color-acento-contenido
-            h5 Tabla 1
+            h5 Tabla 1.
             span Valores
           .tabla-a.color-acento-botones
             table(style="min-width:100%;")

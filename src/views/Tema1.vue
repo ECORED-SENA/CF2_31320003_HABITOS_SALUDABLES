@@ -27,7 +27,7 @@
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0.text-white(style="place-self:center;")
             h4 Tabaquismo
-            p.mb-0 En el mundo se producen alrededor de 6 millones de muertes al año debido a problemas relacionados con el tabaco. Se estima que hacia el 2030, esa cifra aumentará a unos 7,5 millones, representando el 10 % total de fallecimientos en el planeta; hoy en día el consumo está empezando a temprana edad y ocurre en cualquier estrato socioeconómico, sin embargo ,la prevalencia está en los países primermundistas. 
+            p.mb-0 En el mundo se producen alrededor de 6 millones de muertes al año debido a problemas relacionados con el tabaco. Se estima que hacía el 2030, esa cifra aumentará a unos 7,5 millones, representando el 10 % total de fallecimientos en el planeta; hoy en día el consumo está empezando a temprana edad y ocurre en cualquier estrato socioeconómico, sin embargo, la prevalencia está en los países primermundistas. 
           .col-lg-5(style="place-self:center;")
             figure.col-8.col-md-7.col-lg-12.m-auto
               img(src='@/assets/curso/tema1/4.png')
