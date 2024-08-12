@@ -13,14 +13,17 @@
           img(src="@/assets/curso/tema1/1.png")
       .col-lg-8(data-aos="fade-left")
         .p-4(style="background-color:#F1EBE0;border-radius:10px;")
-          p.mb-2 #[span.ps-2.pe-2(style="background-color:#95DBB3;") ¿Sabías que las enfermedades no trasmisibles cobran muchas vidas en el mundo?]
+          //- p.mb-2 #[span.ps-2.pe-2(style="background-color:#95DBB3;") ¿Sabías que las enfermedades no trasmisibles cobran muchas vidas en el mundo?]
           .row
             .col-auto.d-none.d-md-block
               figure
                 img(src="@/assets/curso/tema1/2.svg")
             .col(style="place-self:center;")
-              p.mb-0 Se ha demostrado que casi el 80 % de las muertes ocurren en países tercermundistas; antes se creía que este tipo de problemas de salud era una problemática que afectaba más que todo a los países del primer mundo. 
-        p.mt-4.mb-0 En la sociedad actual, cuando se habla de enfermedades no transmisibles, se hace referencia a padecimientos cardiovasculares, cáncer, diabetes, enfermedades respiratorias crónicas, obesidad, entre otras. Un alto porcentaje de estos trastornos puede reducirse si se tienen en cuenta cuatro factores de riesgo del comportamiento humano como consumo de dietas poco sanas, tabaco, inactividad física y alcohol excesivo. Ampliemos la información sobre cada una de ellos: 
+              p.mb-0 Cada año mueren por Enfermedades no transmisibles (ENT) en todo el mundo, 15 millones de personas entre 30 y 69 años de edad; más del 85 % de estas muertes “prematuras” ocurren en países de ingresos bajos y medianos. En la región de las Américas, mueren 2,2 millones de personas por ENT, antes de cumplir 70 años. (Organización Panamericana de la Salud, 2024).
+
+        p.mt-4 Las enfermedades no transmisibles (ENT), también conocidas como enfermedades crónicas, suelen ser de larga duración y son el resultado de una combinación de factores genéticos, fisiológicos, ambientales y de comportamiento. (Organización Mundial de la Salud, 2023).
+        p.mb-0 Para ampliar la información, lo invitamos a consultar el video Las Enfermedades No Transmisibles (ENT) y factores de riesgo (video animado), el cual se encuentra en el material complementario.
+
     
     .tarjeta.tarjeta--azul.p-4.p-lg-5.pb-lg-4.cont_slyder1.mt-4
       SlyderA(tipo="b")

@@ -16,7 +16,9 @@
           .row.col-xl-11.m-auto(titulo="Promover un entorno saludable")
             p.mb-0 En diferentes ámbitos sociales, hogares, en el trabajo, estudio, entre otros; porque existe una relación importante entre estos sectores en los cuales transcurre la vida cotidiana. Si el entorno en el que se interactúa ofrece una variedad de alternativas, la población va a tener la posibilidad de elegir más opciones saludables de vida. 
           .row.col-xl-11.m-auto(titulo="Impulsar la regulación de productos y servicios ")
-            p.mb-0 Esto se logra a través de leyes que reglamenten el consumo de tabaco y de sodio, consiguiendo en gran medida prevenir enfermedades no transmisibles. 
+            p Esto se logra a través de leyes que reglamenten el consumo de tabaco y de sodio, consiguiendo en gran medida prevenir enfermedades no transmisibles.
+            p.mb-0 “En Colombia existe la norma de Etiquetado nutricional nacional, Resolución 810 del 2021, que establece un reglamento de etiquetado nutricional y frontal que deben cumplir los alimentos envasados o empacados para consumo humano, advirtiendo cuando un alimento tiene ingredientes cuyo consumo en exceso puede representar inconvenientes para la salud y por lo tanto el incremento en el riesgo de padecer enfermedades no trasmisibles”. (Ministerio de Salud y Protección Social, 2024).
+
       .col-lg-3(data-aos="fade-left")
         figure.m-auto.col-7.col-md-7.col-lg-12
           img(src="@/assets/curso/tema3/1.png")

@@ -138,12 +138,26 @@ export default {
   },
   complementario: [
     {
+      tema: 'Enfermedades no transmisibles',
+      referencia:
+        'PAHO TV. (2017). Las Enfermedades No Transmisibles (ENT) y factores de riesgo (video animado). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=5OsYIjmcHjo',
+    },
+    {
       tema: 'Promoción de entornos saludables ',
       referencia:
         'Organización Panamericana de la Salud. (s.f.). <em>Promoción de la salud</em>.',
       tipo: 'Página web',
       link:
         'https://www.paho.org/es/temas/promocion-salud#:~:text=La%20Promoci%C3%B3n%20de%20la%20Salud%20fomenta%20cambios%20en%20el%20entorno,ambientales%2C%20organizacionales%20y%20personales%20interact%C3%BAan',
+    },
+    {
+      tema: 'Actividad física',
+      referencia:
+        'Nube EFi. (2021). Nuevas recomendaciones de actividad física OMS (video).  YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=CvnQwu95ETA',
     },
   ],
   glosario: [
@@ -201,6 +215,34 @@ export default {
     },
     {
       referencia:
+        'Ministerio de Salud y Protección. (2021). Resolución N° 810 del 2021.',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%20810de%202021.pdf',
+    },
+    {
+      referencia: 'Organización Mundial de la Salud. (2024). Actividad Física.',
+      link:
+        'https://www.who.int/es/news-room/fact-sheets/detail/physical-activity',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. ( 2021). Directrices de la OMS sobre actividad física y comportamientos sedentarios.',
+      link:
+        'https://iris.who.int/bitstream/handle/10665/349729/9789240032194-spa.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (2023). Enfermedades no transmisibles.',
+      link:
+        'https://www.who.int/es/news-room/fact-sheets/detail/noncommunicable-diseases',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2024). Enfermedades no transmisibles.',
+      link: 'https://www.paho.org/es/temas/enfermedades-no-transmisibles',
+    },
+    {
+      referencia:
         'Romero, A. (2003). Actividad física beneficiosa para la salud.',
       link: 'http://www.efdeportes.com/efd63/activ.htm',
     },
@@ -211,12 +253,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -226,12 +268,12 @@ export default {
       autores: [
         {
           nombre: 'Ángela Viviana Páez Perilla',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -241,17 +283,17 @@ export default {
       autores: [
         {
           nombre: 'Blanca Flor Tinoco Torres',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Edgar Mauricio Cortés García',
-          cargo: 'Actividad Didáctica',
+          cargo: 'Actividad didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -261,12 +303,12 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
