@@ -22,7 +22,7 @@
               p.mb-0 Cada año mueren por Enfermedades no transmisibles (ENT) en todo el mundo, 15 millones de personas entre 30 y 69 años de edad; más del 85 % de estas muertes “prematuras” ocurren en países de ingresos bajos y medianos. En la región de las Américas, mueren 2,2 millones de personas por ENT, antes de cumplir 70 años. (Organización Panamericana de la Salud, 2024).
 
         p.mt-4 Las enfermedades no transmisibles (ENT), también conocidas como enfermedades crónicas, suelen ser de larga duración y son el resultado de una combinación de factores genéticos, fisiológicos, ambientales y de comportamiento. (Organización Mundial de la Salud, 2023).
-        p.mb-0 Para ampliar la información, lo invitamos a consultar el video Las Enfermedades No Transmisibles (ENT) y factores de riesgo (video animado), el cual se encuentra en el material complementario.
+        p.mb-0 Para ampliar la información, lo invitamos a consultar el video #[b Las Enfermedades No Transmisibles (ENT) y factores de riesgo (video animado)], el cual se encuentra en el material complementario.
 
     
     .tarjeta.tarjeta--azul.p-4.p-lg-5.pb-lg-4.cont_slyder1.mt-4

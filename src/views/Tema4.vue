@@ -71,7 +71,7 @@
           .col-lg.ps-lg-0
             .p-4.h-100.d-flex.flex-wrap.align-content-center(style="background-color:#EBEBFD;")
               p.mb-0 El metabolismo energético que se utiliza en este tipo de actividad es el de los ácidos grasos, donde la intensidad de trabajo del ritmo cardiaco es del 50 % al 60 % de la fuerza cardíaca máxima (FCmax). Se sugiere hacer tres sesiones de actividad física por semana, con una duración de 45 a 60 minutos, incluyendo la fase inicial de preparación, la de calentamiento y la de fase final. 
-        p.mt-4.mb-0 El metabolismo energético que se utiliza en este tipo de actividad es el de los ácidos grasos, donde la intensidad de trabajo del ritmo cardiaco es del 50 % al 60 % de la fuerza cardíaca máxima (FCmax). Se sugiere hacer tres sesiones de actividad física por semana, con una duración de 45 a 60 minutos, incluyendo la fase inicial de preparación, la de calentamiento y la de fase final.
+
       .col-lg-3(data-aos="zoom-in-left" data-aos-delay="500")
         figure.m-auto.col-6.col-md-6.col-lg-12
           img(src="@/assets/curso/tema4/6.png")
