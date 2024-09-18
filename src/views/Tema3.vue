@@ -9,7 +9,7 @@
     
     .row
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
-        p Algunas estrategias para promover la salud y prevenir enfermedades crónicas no trasmisibles, son: 
+        p Algunas estrategias para promover la salud y prevenir enfermedades crónicas no transmisible, son: 
         AcordionA.mt-4(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Fomentar un estilo de vida individual")
             p.mb-0 Realizando actividad física, promoviendo espacios libres del humo de tabaco y consumiendo frutas y verduras. 
@@ -17,7 +17,7 @@
             p.mb-0 En diferentes ámbitos sociales, hogares, en el trabajo, estudio, entre otros; porque existe una relación importante entre estos sectores en los cuales transcurre la vida cotidiana. Si el entorno en el que se interactúa ofrece una variedad de alternativas, la población va a tener la posibilidad de elegir más opciones saludables de vida. 
           .row.col-xl-11.m-auto(titulo="Impulsar la regulación de productos y servicios ")
             p Esto se logra a través de leyes que reglamenten el consumo de tabaco y de sodio, consiguiendo en gran medida prevenir enfermedades no transmisibles.
-            p.mb-0 “En Colombia existe la norma de Etiquetado nutricional nacional, Resolución 810 del 2021, que establece un reglamento de etiquetado nutricional y frontal que deben cumplir los alimentos envasados o empacados para consumo humano, advirtiendo cuando un alimento tiene ingredientes cuyo consumo en exceso puede representar inconvenientes para la salud y por lo tanto el incremento en el riesgo de padecer enfermedades no trasmisibles”. (Ministerio de Salud y Protección Social, 2024).
+            p.mb-0 “En Colombia existe la norma de Etiquetado nutricional nacional, Resolución 810 del 2021, que establece un reglamento de etiquetado nutricional y frontal que deben cumplir los alimentos envasados o empacados para consumo humano, advirtiendo cuando un alimento tiene ingredientes cuyo consumo en exceso puede representar inconvenientes para la salud y por lo tanto el incremento en el riesgo de padecer enfermedades no transmisible”. (Ministerio de Salud y Protección Social, 2024).
 
       .col-lg-3(data-aos="fade-left")
         figure.m-auto.col-7.col-md-7.col-lg-12

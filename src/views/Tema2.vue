@@ -21,7 +21,7 @@
               img(src="@/assets/curso/tema2/2.svg")
         p.mt-4.mb-0(data-aos="fade-up") Como se ha explicado, el cuerpo humano necesita de muchos nutrientes para funcionar correctamente, por ejemplo, del consumo de carbohidratos, proteínas, vitaminas, minerales, entre otros. Cuando no se le aporta al cuerpo la cantidad suficiente de algunas de las sustancias mencionadas anteriormente, este tiende a sufrir desbalances nutricionales, haciendo que algunas de sus funciones básicas no se realicen adecuadamente, generándose enfermedades; igualmente cuando se ingieren cantidades excesivas de alimentos, es posible que surjan complicaciones debido a la superabundancia de nutrientes, así como componentes dañinos para el organismo. 
     
-    p.mt-4(data-aos="fade-right") A continuación se describen las principales enfermedades ocasionadas por la mala alimentación. 
+    p.mt-4(data-aos="fade-right") A continuación, se describen las principales enfermedades ocasionadas por la mala alimentación. 
 
     Separador
 
@@ -131,7 +131,7 @@
     
     .row
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-        p Se genera por la acumulación excesiva de tejido graso; su manifestación característica se visualiza en el aumento del peso corporal. Esta enfermedad no trasmisible es una de las más comunes en el mundo, debido a problemas en la alimentación y se produce cuando las personas tienen hábitos alimenticios en los que consumen una mayor cantidad de calorías de las que gastan. La caloría corresponde a la unidad de medición de la energía (obtenida de la ingesta de grasas o carbohidratos) aportada por los alimentos. 
+        p Se genera por la acumulación excesiva de tejido graso; su manifestación característica se visualiza en el aumento del peso corporal. Esta enfermedad no transmisible es una de las más comunes en el mundo, debido a problemas en la alimentación y se produce cuando las personas tienen hábitos alimenticios en los que consumen una mayor cantidad de calorías de las que gastan. La caloría corresponde a la unidad de medición de la energía (obtenida de la ingesta de grasas o carbohidratos) aportada por los alimentos. 
         .p-4(style="background-color:#EBEBFD;border-radius:10px;")
           p.mb-0 La Organización Mundial de la Salud (OMS) establece que una persona es obesa cuando su índice de masa corporal (IMC) es igual o superior a 30; asimismo, y se calcula dividiendo el peso de la persona (kilogramos) por el cuadrado de su estatura (en metros). 
       .col-lg-4(data-aos="fade-left")
@@ -324,7 +324,7 @@
               img(src="@/assets/curso/tema2/41.svg")
           .col(style="place-self:center;")
             p.mb-0 Una de las principales enfermedades cardiovasculares es la arteriosclerosis, la cual se define como el endurecimiento y oclusión de las arterias; se ocasiona debido a la formación de una placa de depósito graso llamada ateroma. 
-        p.mt-4.mb-0 Los niveles de colesterol en la sangre incrementan las probabilidades de infarto debido a que las obstaculizaciones en las venas hacen que el flujo que alimenta el miocardio (músculo del corazón) se vea disminuido drásticamente o sencillamente se detenga. Aparte de los infartos, también es posible sufrir una enfermedad llamada trombosis en la que se produce un coágulo en la sangre, generando una obstrucción en el flujo sanguíneo. 
+        p.mt-4.mb-0 Los niveles de colesterol en la sangre incrementan las probabilidades de infarto debido a que las obstaculizaciones en las venas hacen que el flujo que alimenta el miocardio (músculo del corazón) se vea disminuido drástica o sencillamente se detenga. Aparte de los infartos, también es posible sufrir una enfermedad llamada trombosis en la que se produce un coágulo en la sangre, generando una obstrucción en el flujo sanguíneo. 
     
     TituloDecorativo.mt-5(titulo="Estrategias para prevenir enfermedades cardiovasculares")
 

@@ -293,9 +293,9 @@
 
       .row.col-xl-11.m-auto(titulo="Adultos y personas mayores con afecciones crónicas (a partir de los 18 años) (OMS,2021)")
         p Estas son las primeras directrices de la OMS organizadas en torno a las distintas poblaciones en que se aborda la actividad física de las personas con afecciones crónicas, específicamente las personas con cáncer (en adelante, «supervivientes de cáncer»), hipertensión, diabetes de tipo. 2 y VIH. Dados los avances registrados en la eficacia y disponibilidad del tratamiento antirretroviral del VIH, dicha afección también ha pasado a considerarse una afección crónica.
-        p Los adultos con afecciones crónicas pueden realizar la actividad física como actividad recreativa o de ocio (juegos, deportes o ejercicios programados) y en el marco de los desplazamientos (caminar e ir en bicicleta o en algún otro medio rodado), el trabajo o los quehaceres. domésticos, en el contexto ocupacional, educativo, doméstico y comunitario cotidiano.
+        p Los adultos con afecciones crónicas pueden realizar la actividad física como actividad recreativa o de ocio (juegos, deportes o ejercicios programados) y en el marco de los desplazamientos (caminar e ir en bicicleta o en algún otro medio rodado), el trabajo o los quehaceres domésticos, en el contexto ocupacional, educativo, doméstico y comunitario cotidiano.
         p Todos los supervivientes de cáncer y las personas adultas con hipertensión, diabetes de tipo 2 y VIH deben procurar cumplir estas recomendaciones en la medida de sus posibilidades y su capacidad siempre que no existan contraindicaciones al respecto.
-        p La actividad física puede ser beneficiosa para la salud de los adultos y las personas mayores con las siguientes afecciones crónicas: en los supervivientes de cáncer , la actividad física mejora la mortalidad por todas las causas, la mortalidad por cáncer y el riesgo de reincidencia o segundos. tumores primarios; en las personas con hipertensión , la actividad física mejora la mortalidad cardiovascular, la progresión de la enfermedad, la función física y la calidad de vida relacionada con la salud; en las personas con diabetes de tipo 2 , la actividad física reduce las tasas de mortalidad por causa cardiovascular y los indicadores de progresión de la enfermedad, y en las personas con VIH , la actividad física puede mejorar la forma física y la salud mental (menor presencia de síntomas de ansiedad y depresión), y no incide negativamente en la progresión de la enfermedad (recuento de CD4 y carga vírica) ni en la composición corporal.
+        p La actividad física puede ser beneficiosa para la salud de los adultos y las personas mayores con las siguientes afecciones crónicas: en los supervivientes de cáncer, la actividad física mejora la mortalidad por todas las causas, la mortalidad por cáncer y el riesgo de reincidencia o segundos tumores primarios; en las personas con hipertensión, la actividad física mejora la mortalidad cardiovascular, la progresión de la enfermedad, la función física y la calidad de vida relacionada con la salud; en las personas con diabetes de tipo 2, la actividad física reduce las tasas de mortalidad por causa cardiovascular y los indicadores de progresión de la enfermedad, y en las personas con VIH, la actividad física puede mejorar la forma física y la salud mental (menor presencia de síntomas de ansiedad y depresión), y no incide negativamente en la progresión de la enfermedad (recuento de CD4 y carga vírica) ni en la composición corporal.
         p Se recomienda:
 
         ul.lista-ul.mb-0.ps-4
@@ -326,7 +326,7 @@
             span Los adultos con estas afecciones crónicas pueden optar por consultar a un especialista en actividad física o a un médico profesional para que les indique el tipo y la cantidad de actividad adecuada en función de sus necesidades, capacidades, limitaciones o complicaciones funcionales, medicación y plan general de tratamiento.
           li.d-flex
             i.fas.fa-walking(style="color:#30169A;")
-            span Por lo general no hace falta la autorización de un médico para realizar ejercicio cuando no existen contraindicaciones previas al comienzo de una actividad física de intensidad leve a moderada con un nivel de exigencia que no supere el que requiere la vida cotidiana o caminar a buen paso.
+            span Por lo general, no hace falta la autorización de un médico para realizar ejercicio cuando no existen contraindicaciones previas al comienzo de una actividad física de intensidad leve a moderada, con un nivel de exigencia que no supere el que requiere la vida cotidiana o caminar a buen paso.
 
       .row.col-xl-11.m-auto(titulo="Niños y adolescentes (de 5 a 17 años) y adultos (a partir de 18 años) con discapacidad (OMS,2021)")
         p Los niños, los adolescentes y los adultos con discapacidad deben procurar seguir estas recomendaciones en la medida de sus posibilidades y su capacidad.
@@ -383,7 +383,7 @@
                   td.text-center.p-3(style="border:1px #30169A solid;") Glúcidos
                   td.text-center.p-3(style="border:1px #30169A solid;") 50 - 70 %
                 tr.bg-white
-                  td.text-center.p-3(style="border:1px #30169A solid;") Lipidos
+                  td.text-center.p-3(style="border:1px #30169A solid;") Lípidos
                   td.text-center.p-3(style="border:1px #30169A solid;") 25 - 35 %
                 tr.bg-white
                   td.text-center.p-3(style="border:1px #30169A solid;") Proteínas

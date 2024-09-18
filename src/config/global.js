@@ -307,6 +307,11 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',

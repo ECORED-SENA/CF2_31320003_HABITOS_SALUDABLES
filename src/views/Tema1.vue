@@ -13,7 +13,6 @@
           img(src="@/assets/curso/tema1/1.png")
       .col-lg-8(data-aos="fade-left")
         .p-4(style="background-color:#F1EBE0;border-radius:10px;")
-          //- p.mb-2 #[span.ps-2.pe-2(style="background-color:#95DBB3;") ¿Sabías que las enfermedades no trasmisibles cobran muchas vidas en el mundo?]
           .row
             .col-auto.d-none.d-md-block
               figure
@@ -66,7 +65,7 @@
           figure.mt-4
             img(src="@/assets/curso/tema1/9.svg" style="max-width:100px;display:inline;")
           h5.mt-4.text-white.ps-3.pe-4.m-auto.pb-1.pt-1(style="max-width:fit-content;background-color:#30169A;") Hipertensión 
-          p.mt-3.mb-0 Se estima que esta enfermedad no trasmisible es la responsable de al menos 2,8 millones de muertes cada año; asimismo, se le relaciona como un importante factor de riesgo dentro de los padecimientos cardiovasculares. 
+          p.mt-3.mb-0 Se estima que esta enfermedad no transmisible es la responsable de al menos 2,8 millones de muertes cada año; asimismo, se le relaciona como un importante factor de riesgo dentro de los padecimientos cardiovasculares. 
       .col-lg-3.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in")
         .h-100.p-4.p-lg-4.cont_1_1.text-center(style="background-color:#EBEBFD;border-radius:15px;")
           figure.mt-4

@@ -22,7 +22,7 @@
           ul.lista-ul.mb-0
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Cuando compre huevos, los cascarones deben estar limpios y sin roturas. La temperatura de recepción debe ser de 4ºC (si es necesario tome la temperatura de este, es decir, coja un huevo, rómpalo y vacíelo en un vaso, posteriormente mida). 
+              div Cuando compre huevos, los cascarones deben estar limpios y sin roturas. La temperatura de recepción debe ser de 4 ºC (si es necesario tome la temperatura de este, es decir, coja un huevo, rómpalo y vacíelo en un vaso, posteriormente mida). 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
               div Los huevos no deben presentar ningún olor. Es necesario que las yemas resalten y estén firmes, las claras tienen que estar bien adheridas a las yemas. 
@@ -34,7 +34,7 @@
               div Al refrigerar los huevos, estos no deben estar sucios o con excremento. 
             li.d-flex.mb-0
               i.fas.fa-walking(style="color:#30169A;")
-              div Los huevos congelados deben recibirse a -18ºC y el huevo líquido a 4ºC. 
+              div Los huevos congelados deben recibirse a -18 ºC y el huevo líquido a 4 ºC. 
         .col-lg-4
           figure.m-auto.col-8.col-md-7.col-lg-12
             img(src="@/assets/curso/tema6/2.png")
@@ -43,7 +43,7 @@
           ul.lista-ul.mb-0
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div #[strong Leche:] tome la temperatura de la leche, esta debe estar a 4ºC y si está cruda, refrigérela inmediatamente. 
+              div #[strong Leche:] tome la temperatura de la leche, esta debe estar a 4 ºC y si está cruda, refrigérela inmediatamente. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
               div #[strong Mantequilla:] debe tener un sabor fresco y un color uniforme, rechácela si presenta una apariencia babosa. 
@@ -64,10 +64,10 @@
               div Descarte si presenta manchas negras o verdes. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Acepte si tiene una temperatura de 4ºC o menor y si el color es rojo carmesí brillante. 
+              div Acepte si tiene una temperatura de 4 ºC o menor y si el color es rojo carmesí brillante. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Prescinda si la temperatura es superior a 4ºC y si exhibe una textura babosa, pegajosa o seca. Realice la prueba del dedo, la cual consiste en hacer presión sobre la carne, y si queda marcado sobre esta, rechácela. 
+              div Prescinda si la temperatura es superior a 4 ºC y si exhibe una textura babosa, pegajosa o seca. Realice la prueba del dedo, la cual consiste en hacer presión sobre la carne, y si queda marcado sobre esta, rechácela. 
         .col-lg-4
           figure.m-auto.col-8.col-md-7.col-lg-12
             img(src="@/assets/curso/tema6/4.png")
@@ -76,13 +76,13 @@
           ul.lista-ul.mb-0
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Admita si la temperatura es de 4ºC o menor. 
+              div Admita si la temperatura es de 4 ºC o menor. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
               div Si la grasa presenta una coloración blanca y limpia, quiere decir que está en buen estado. 
             li.d-flex.mb-0
               i.fas.fa-walking(style="color:#30169A;")
-              div Rechace si la temperatura es mayor a 4ºC. 
+              div Rechace si la temperatura es mayor a 4 ºC. 
         .col-lg-4
           figure.m-auto.col-8.col-md-7.col-lg-12
             img(src="@/assets/curso/tema6/5.png")
@@ -91,7 +91,7 @@
           ul.lista-ul.mb-0
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div La temperatura debe ser de 4ºC o menor. 
+              div La temperatura debe ser de 4 ºC o menor. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
               div Es necesario que el color sea uniforme, ya sea amarillo brillante o blanco o rosado, no debe presentar decoloraciones. 
@@ -115,7 +115,7 @@
           ul.lista-ul.mb-0
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
-              div Admita si este viene con una temperatura de 4ºC o menor. 
+              div Admita si este viene con una temperatura de 4 ºC o menor. 
             li.d-flex
               i.fas.fa-walking(style="color:#30169A;")
               div Debe tener un olor fuerte, aspecto característico del pescado. 
@@ -193,7 +193,7 @@
         .p-4(style="background-color:#DAF2E4;border-radius:10px;")
           figure
             img(src="@/assets/curso/tema6/12.svg" style="max-width:100px;")
-          p.mt-3.mb-0 Al momento de elaborar alimentos, es importante tener en cuenta el factor temperatura, de hecho, si están entre los 5 y los 65ºC, pueden aparecer agentes patógenos con facilidad; por tal razón, la comida debe cocinarse a una temperatura superior a los 65ºC para así matar todos los parásitos y bacterias, además esta debe almacenarse a una temperatura inferior a los 5ºC. 
+          p.mt-3.mb-0 Al momento de elaborar alimentos, es importante tener en cuenta el factor temperatura, de hecho, si están entre los 5 y los 65 ºC, pueden aparecer agentes patógenos con facilidad; por tal razón, la comida debe cocinarse a una temperatura superior a los 65 ºC para así matar todos los parásitos y bacterias, además esta debe almacenarse a una temperatura inferior a los 5 ºC. 
     
     p.mt-4(data-aos="fade-right") Recomendaciones para la preparación de alimentos: 
 
@@ -228,7 +228,7 @@
             ul.lista-ul.mb-0
               li.d-flex
                 i.fas.fa-walking
-                div Debe tenerse especial cuidado al cocinar carnes como la de res, cerdo, pollo, pescado, entre otras, ya que si no se hace correctamente pueden permanecer en ellas microorganismos patógenos causantes de enfermedades debido a que la carne cruda representa un entorno muy favorable para los gérmenes, por ende se debe cocinar a temperaturas superiores a los 65ºC para así destruir dichos microbios. 
+                div Debe tenerse especial cuidado al cocinar carnes como la de res, cerdo, pollo, pescado, entre otras, ya que si no se hace correctamente pueden permanecer en ellas microorganismos patógenos causantes de enfermedades debido a que la carne cruda representa un entorno muy favorable para los gérmenes, por ende se debe cocinar a temperaturas superiores a los 65 ºC para así destruir dichos microbios. 
               li.d-flex.mb-0
                 i.fas.fa-walking
                 div Cuando se requiera preparar un alimento que no tiene que ser cocinado, como por ejemplo, frutas o legumbres, debe lavarse cuidadosamente con agua limpia para poder eliminar todos los gérmenes. 
@@ -263,7 +263,7 @@
     TituloDecorativo.mt-5(titulo="Precaución en la manipulación de alimentos")
 
     p(data-aos="fade-left") Es toda acción que implique un contacto físico con estos, incluyendo la utilización de manos o con utensilios de cocina (sartenes, ollas, platos y cubiertos). 
-    p(data-aos="fade-right") A continuación se exponen las precauciones a tener en cuenta: 
+    p(data-aos="fade-right") A continuación, se exponen las precauciones a tener en cuenta: 
 
     .row.mt-4
       .col-lg-3.col-md-6.mb-4(data-aos="zoom-in")

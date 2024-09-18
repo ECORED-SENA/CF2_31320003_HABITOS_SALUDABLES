@@ -16,7 +16,7 @@
               img(src="@/assets/curso/tema5/1.png")
           .col-lg.ps-lg-0
             .p-4.h-100.d-flex.flex-wrap.align-content-center(style="background-color:#EBEBFD;")
-              p.mb-0 Por otra parte, se sabe que ahora hay más gente en el mundo con mejores niveles de vida de los que había en el pasado, lo que ha hecho surgir el término de alimentos saludables. La gente moderna está demandando productos sanos, libres de cualquier tipo de contaminación sea física, química o biológica; los nuevos alimentos requieren de la integración de metodologías como el aseguramiento de la calidad desde que se produce en campo hasta que se trasforma en producto. Para ello, se han utilizado tecnologías de innovación y métodos de análisis más funcionales en la manipulación, preparación y conservación de los alimentos. 
+              p.mb-0 Por otra parte, se sabe que ahora hay más gente en el mundo con mejores niveles de vida de los que había en el pasado, lo que ha hecho surgir el término de alimentos saludables. La gente moderna está demandando productos sanos, libres de cualquier tipo de contaminación sea física, química o biológica; los nuevos alimentos requieren de la integración de metodologías como el aseguramiento de la calidad desde que se produce en campo hasta que se transforma en producto. Para ello, se han utilizado tecnologías de innovación y métodos de análisis más funcionales en la manipulación, preparación y conservación de los alimentos. 
       .col-lg-3(data-aos="zoom-in-left" data-aos-delay="500")
         figure.m-auto.col-6.col-md-6.col-lg-12
           img(src="@/assets/curso/tema5/2.png")
@@ -30,9 +30,9 @@
       .col-lg-9(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Sabor de un alimento")
-            p Cuando se tiene un resfriado, los alimentos no parecen tener sabor, esto solo es una verdad a medias. La sensación que se genera tiene dos componentes, sabor y gusto, es más ,se puede demostrar fácilmente si se cierran los ojos y se aprieta la nariz, no se distingue entre un helado de vainilla y uno de chocolate. 
+            p Cuando se tiene un resfriado, los alimentos no parecen tener sabor, esto solo es una verdad a medias. La sensación que se genera tiene dos componentes, sabor y gusto, es más,se puede demostrar fácilmente si se cierran los ojos y se aprieta la nariz, no se distingue entre un helado de vainilla y uno de chocolate. 
             p En la naturaleza se tienen solo cuatro sabores fundamentales, agrio, dulce, amargo y salado. Es importante resaltar que existe mucha gente que carece de sabor, de la misma manera que hay personas daltónicas, lo anterior debido a factores hereditarios. Hay varias respuestas menores al sabor. Las personas detectan muy fácilmente a través del gusto y el tacto lo jabonoso. 
-            p.mb-0 Respecto al gusto, se encuentra que ciertas sustancias dan una sensación de temperatura, por ejemplo cuando se come pimienta, se siente calor, o con una menta, frío. 
+            p.mb-0 Respecto al gusto, se encuentra que ciertas sustancias dan una sensación de temperatura, por ejemplo, cuando se come pimienta, se siente calor, o con una menta, frío. 
           .row.col-xl-11.m-auto(titulo="Olor de los alimentos")
             p Es un sentido químico, así como el gusto, de igual manera, los nervios olfativos están ocultos en un pasaje nasal. El sentido del olfato es 2500 veces más sensible que el del gusto. 
             p.mb-0 La clasificación común incluye los olores a tierra, fruta, flores, pescado, especias, pútrido y aceites. 
