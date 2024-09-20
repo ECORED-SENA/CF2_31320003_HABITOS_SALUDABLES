@@ -30,7 +30,7 @@
       .col-lg-9(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Sabor de un alimento")
-            p Cuando se tiene un resfriado, los alimentos no parecen tener sabor, esto solo es una verdad a medias. La sensación que se genera tiene dos componentes, sabor y gusto, es más,se puede demostrar fácilmente si se cierran los ojos y se aprieta la nariz, no se distingue entre un helado de vainilla y uno de chocolate. 
+            p Cuando se tiene un resfriado, los alimentos no parecen tener sabor, esto solo es una verdad a medias. La sensación que se genera tiene dos componentes, sabor y gusto, es más, se puede demostrar fácilmente si se cierran los ojos y se aprieta la nariz, no se distingue entre un helado de vainilla y uno de chocolate. 
             p En la naturaleza se tienen solo cuatro sabores fundamentales, agrio, dulce, amargo y salado. Es importante resaltar que existe mucha gente que carece de sabor, de la misma manera que hay personas daltónicas, lo anterior debido a factores hereditarios. Hay varias respuestas menores al sabor. Las personas detectan muy fácilmente a través del gusto y el tacto lo jabonoso. 
             p.mb-0 Respecto al gusto, se encuentra que ciertas sustancias dan una sensación de temperatura, por ejemplo, cuando se come pimienta, se siente calor, o con una menta, frío. 
           .row.col-xl-11.m-auto(titulo="Olor de los alimentos")

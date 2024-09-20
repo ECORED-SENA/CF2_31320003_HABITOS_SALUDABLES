@@ -21,7 +21,7 @@
           .col-lg-5.ps-lg-0
             figure.col-9.col-md-8.col-lg-12.m-auto
               img(src="@/assets/curso/tema4/2.svg")
-        p.mt-4 La importancia del deporte en la salud radica en los siguientes aspectos:  
+        p.mt-4 La importancia del deporte en la salud, radica en los siguientes aspectos (OMS, 2024): 
         ul.lista-ul.mt-3.mb-0.ps-4
           li.d-flex
             i.fas.fa-walking(style="color:#30169A;")
